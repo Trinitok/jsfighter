@@ -1,0 +1,15 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+This is a browser based fighting game developed in gameQuery and jQuery inspired by MUGEN (famous fighting game engine).This is a client side game which is running on browser using javascript engine.
+
+
+= Details =
+This game can be played as multi player as well as single player modes.
+
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
